@@ -1,1 +1,5 @@
-print("hello world","welcome to python")
+print("Hello World")
+print(4+5)
+print("Abhishek")
+print("I am Abhishek form bihar district bhojpur ")
+print(34/3)
