@@ -20,9 +20,9 @@ for fruit in fruits:
 
 
 
-phal = ['mango','pear','banana','kiwi']
+p = ['mango','pear','banana','kiwi']
 
 i = 0
-while i < len(phal):
-    print(phal[i])
+while i < len(p):
+    print(p[i])
     i += 1
