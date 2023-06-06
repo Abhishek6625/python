@@ -1,9 +1,22 @@
-fruits = ['orange','apple','pear','banana','kiwi']
-# fruits.pop()
-# fruits.pop(1)
+student = ['abhi','raj','vira']
+roll = [101,202,303]
 
-# del fruits[0]
+zip_obj = zip(student,roll)
+# print(zip_obj)
 
-fruits.remove('banana')
+# for item in zip_obj:
+#     print(item)
 
-print(fruits)
+# print(set(zip_obj))    
+# print(dict(zip_obj))    
+print(list(zip_obj))  
+
+
+
+
+id = [1,2,3,4,5,6,7,8]
+val = 'Abhsihek'
+
+print(list(zip(id,val)))
+# print(dict(zip(id,val)))
+# print(set(zip(id,val)))
